@@ -1,0 +1,6 @@
+{
+  "name": "HSC Study Buddy",
+  "description": "Social study tracker and planner for HSC students in Bangladesh with real-time peer study status, routines, and streaks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
